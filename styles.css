@@ -1,0 +1,61 @@
+* {
+    background-color: rgb(229, 189, 196);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: rgb(8, 8, 173);
+    text-align: center;
+}
+
+img {
+    display: inline-flex;
+    width: 400px;
+}
+
+a {
+    color: black;
+    background-color: rgb(65, 165, 42);
+}
+
+.whole-ting {
+    display: inline-block;
+    width: 750px;
+}
+
+.home {
+    padding: 32px;
+    margin-left: 900px;
+}
+
+.ingredients-box {
+    display: inline-block;
+    border-color: white; 
+    border-style: solid; 
+    width: 360px;
+
+}
+
+.steps-box {
+    display: inline-block;
+    border-color: white; 
+    border-style: solid; 
+    width: 360px;
+}
+
+.ingredients {
+    background-color: rgb(200, 106, 122);
+    border-color: azure;
+    border-style: dotted;
+    border-width: 5px;
+    display: inline-block;
+}
+
+.steps {
+    background-color: rgb(173, 94, 107);
+    border-color: azure;
+    border-style: dotted;
+    border-width: 5px;
+    display: inline-block;
+}
+
